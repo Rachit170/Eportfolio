@@ -15,7 +15,7 @@ const projects = [
     live: "#",
   },
   {
-    title: "Task Management App",
+    title: "Single Pass Compiler",
     description:
       "We designed Gran with simplicity, readability, and extensibility in mind. It’s a modern take on systems programming languages, giving developers strong type guarantees and readable syntax — all while leveraging the power of LLVM for optimization and code generation.",
     image: "/pic2.png?height=300&width=500",
